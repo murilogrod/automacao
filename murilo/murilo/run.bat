@@ -1,0 +1,1 @@
+java -Dmail.smtp.starttls.enable=true -jar jenkins.war
